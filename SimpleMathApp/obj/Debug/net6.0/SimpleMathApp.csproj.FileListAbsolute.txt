@@ -1,0 +1,14 @@
+C:\Users\elise\source\repos\SimpleMathApp\bin\Debug\net6.0\SimpleMathApp.exe
+C:\Users\elise\source\repos\SimpleMathApp\bin\Debug\net6.0\SimpleMathApp.deps.json
+C:\Users\elise\source\repos\SimpleMathApp\bin\Debug\net6.0\SimpleMathApp.runtimeconfig.json
+C:\Users\elise\source\repos\SimpleMathApp\bin\Debug\net6.0\SimpleMathApp.dll
+C:\Users\elise\source\repos\SimpleMathApp\bin\Debug\net6.0\SimpleMathApp.pdb
+C:\Users\elise\source\repos\SimpleMathApp\obj\Debug\net6.0\SimpleMathApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elise\source\repos\SimpleMathApp\obj\Debug\net6.0\SimpleMathApp.AssemblyInfoInputs.cache
+C:\Users\elise\source\repos\SimpleMathApp\obj\Debug\net6.0\SimpleMathApp.AssemblyInfo.cs
+C:\Users\elise\source\repos\SimpleMathApp\obj\Debug\net6.0\SimpleMathApp.csproj.CoreCompileInputs.cache
+C:\Users\elise\source\repos\SimpleMathApp\obj\Debug\net6.0\SimpleMathApp.dll
+C:\Users\elise\source\repos\SimpleMathApp\obj\Debug\net6.0\refint\SimpleMathApp.dll
+C:\Users\elise\source\repos\SimpleMathApp\obj\Debug\net6.0\SimpleMathApp.pdb
+C:\Users\elise\source\repos\SimpleMathApp\obj\Debug\net6.0\SimpleMathApp.genruntimeconfig.cache
+C:\Users\elise\source\repos\SimpleMathApp\obj\Debug\net6.0\ref\SimpleMathApp.dll
